@@ -4,7 +4,7 @@ set EnginePath=G:\UE_4.25\Engine\
 set ProjectPath=G:\Projects\TheWicked\
 set BuildPath=G:\Build
 set ProjectName=TheWicked
-set ProjectNameEditor=TheWickedEditor
+set ProjectNameEditor=%ProjectName%Editor
 set UprojectPath=%ProjectPath%%ProjectName%.uproject
 set SlnPath=%ProjectPath%%ProjectName%.sln
 
